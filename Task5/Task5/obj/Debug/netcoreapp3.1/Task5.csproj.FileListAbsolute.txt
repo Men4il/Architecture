@@ -1,0 +1,14 @@
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Men4il\source\repos\Task5\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.AssemblyReference.cache
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\Men4il\source\repos\Task5\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache
